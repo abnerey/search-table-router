@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.search-table {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.search-table__sidebar {
+  flex-basis: 30%;
+}
+
+.search-table__main {
+  flex-basis: 70%;
+}
